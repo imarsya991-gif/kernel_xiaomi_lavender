@@ -1,7 +1,7 @@
 VERSION = 4
 PATCHLEVEL = 4
 SUBLEVEL = 205
-EXTRAVERSION = -ArsZ-Kernel-ResuKiSu
+EXTRAVERSION = -ArsZ-Kernel-ReSukiSu
 NAME = Blurry Fish Butt
 
 # *DOCUMENTATION*
